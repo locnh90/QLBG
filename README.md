@@ -19,6 +19,6 @@ Dự án này là một ứng dụng quản lý bán giày được xây dựng 
    - Lịch trình: Xây dựng và phát triển dự án trong vòng 1 tháng (Kết thúc 11-2023)
  
 * Cài đặt
-   -   Clone repository:
-   -   Chạy CSDL:
+   -   Clone repository: https://github.com/locnh90/QLBG/tree/master
+   -   Chạy CSDL: banGiayNe.sql
    -   Đảm bảo rằng bạn đã có JDK, thư viện JDBC phù hợp với máy 
